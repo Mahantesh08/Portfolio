@@ -17,7 +17,7 @@ Project is created with:
 ## View the website
 To view the website, click on the link below:
 
-// Deployed LINK
+https://relaxed-blancmange-f4a2f3.netlify.app/
 
 ## If you like this project, please give it a 🌟.
 ## Thank you 😊.
